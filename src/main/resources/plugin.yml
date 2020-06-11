@@ -1,0 +1,7 @@
+name: Dreamly
+version: @version@
+main: net.lexonje.dreamly.Plugin
+api-version: 1.15.2
+prefix: Dreamly
+authors: [LeXonJe]
+description: A plugin for telling stories.
